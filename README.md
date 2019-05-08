@@ -2,4 +2,4 @@
 ```
 https://syedsimanta03.github.io/dynamicform-vue/
 ```
-check it our
+check it out
